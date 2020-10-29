@@ -16,29 +16,23 @@
 * Modlogs for all the actions.
 
 #### Commands
-* Ban
-* Deafen
-* DisableModLogChannel
-* DisableMuteRole
-* Dm
-* Hackban/Forceban
+* Ban | Unban
+* Deafen | Undeafen
+* DisableModLogChannel | SetModLogChannel
+* DisableMuteRole | SetMuteRole
+* Dm 
+* Hackban/Forceban | Unban
 * Kick
-* Lock channel
-* Lockdown [Only for emergency scenarios]
-* Mute
+* Lock channel | Unlock
+* Lockdown [Only for emergency scenarios] | Unlock
+* Mute | Unmute
 * Purge
 * RoleAdd
 * RoleInfo
 * RoleMemberInfo
-* SetModLogChannel
-* SetMuteRole
 * SetNick
 * Slowmode
 * Svr [Server Region change]
-* Unban
-* Undeafen
-* Unlock
-* Unmute
 * VoiceMove [Move a peerson from one vc to another]
 * Warn
 * Whois
