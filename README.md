@@ -36,3 +36,7 @@
 * VoiceMove [Move a peerson from one vc to another]
 * Warn
 * Whois
+
+# Contributors:
+ * [Manav Garg](https://github.com/ManavvGarg) -Code and Commands
+ * [FirezTheGreat](https://github.com/FirezTheGreat) -File Structure and Message Events handler
