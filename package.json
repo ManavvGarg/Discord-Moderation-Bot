@@ -9,7 +9,7 @@
     "@lavacord/discord.js": "0.0.7",
     "amethyste-api": "^1.1.4",
     "anime-scraper": "^3.1.1",
-    "axios": "^0.20.0",
+    "axios": "^0.21.0",
     "beautify": "^0.0.8",
     "canvacord": "^4.0.1",
     "canvas": "^2.6.1",
