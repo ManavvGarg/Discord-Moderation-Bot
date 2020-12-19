@@ -43,7 +43,7 @@
     "node-canvas-with-twemoji-and-discord-emoji": "^1.1.4",
     "node-fetch": "^2.6.0",
     "node-superfetch": "^0.1.10",
-    "npm": "^6.14.8",
+    "npm": "^6.14.10",
     "parse-ms": "^2.1.0",
     "path": "^0.12.7",
     "quick.db": "^7.1.1",
