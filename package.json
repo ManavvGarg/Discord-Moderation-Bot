@@ -37,7 +37,7 @@
     "js-base64": "^3.4.5",
     "lavacord": "^1.1.9",
     "logger": "0.0.1",
-    "moment": "^2.27.0",
+    "moment": "^2.29.1",
     "moment-duration-format": "^2.3.2",
     "ms": "^2.1.2",
     "node-canvas-with-twemoji-and-discord-emoji": "^1.1.4",
