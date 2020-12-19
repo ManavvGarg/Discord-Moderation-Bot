@@ -29,7 +29,7 @@
     "g-i-s": "^2.1.6",
     "genius-lyrics-api": "^3.0.3",
     "google-translate-free": "^2.4.5",
-    "google-tts-api": "0.0.4",
+    "google-tts-api": "2.0.0",
     "got": "^11.5.2",
     "i": "^0.3.6",
     "imageapi.js": "^1.0.12",
