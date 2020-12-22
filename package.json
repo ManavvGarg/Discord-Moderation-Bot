@@ -14,7 +14,7 @@
     "canvacord": "^4.0.1",
     "canvas": "^2.6.1",
     "canvas-constructor": "^4.1.0",
-    "cheerio": "^1.0.0-rc.3",
+    "cheerio": "^1.0.0-rc.5",
     "common-tags": "^1.8.0",
     "cpu-stat": "^2.0.1",
     "danbot-hosting": "^0.1.4",
