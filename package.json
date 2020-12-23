@@ -61,7 +61,7 @@
     "weather.js": "^0.1.0",
     "wikijs": "^6.0.1",
     "ytdl-core": "^3.2.2",
-    "ytdl-core-discord": "^1.2.1"
+    "ytdl-core-discord": "^1.2.5"
   },
   "devDependencies": {},
   "scripts": {
