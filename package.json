@@ -52,7 +52,7 @@
     "sharp": "^0.26.2",
     "simple-youtube-api": "^5.2.1",
     "slyrics": "^0.1.42",
-    "soundcloud-downloader": "^0.1.5",
+    "soundcloud-downloader": "^0.2.4",
     "superagent": "^6.1.0",
     "urban": "^0.3.2",
     "utf8": "^3.0.0",
