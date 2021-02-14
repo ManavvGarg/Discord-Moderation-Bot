@@ -29,7 +29,7 @@
     "quick.db": "^7.1.1",
     "request-promise-native": "^1.0.9",
     "sharp": "^0.26.2",
-    "superagent": "^6.1.0",
+    "superagent": "^6.1.0"
   },
   "devDependencies": {},
   "scripts": {
