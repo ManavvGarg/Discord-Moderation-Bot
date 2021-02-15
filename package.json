@@ -23,7 +23,7 @@
     "ms": "^2.1.2",
     "node-canvas-with-twemoji-and-discord-emoji": "^1.1.4",
     "node-fetch": "^2.6.0",
-    "node-superfetch": "^0.1.10",
+    "node-superfetch": "^0.1.11",
     "parse-ms": "^2.1.0",
     "path": "^0.12.7",
     "quick.db": "^7.1.1",
