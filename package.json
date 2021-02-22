@@ -28,7 +28,7 @@
     "path": "^0.12.7",
     "quick.db": "^7.1.1",
     "request-promise-native": "^1.0.9",
-    "sharp": "^0.27.1",
+    "sharp": "^0.27.2",
     "superagent": "^6.1.0"
   },
   "devDependencies": {},
