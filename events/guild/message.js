@@ -4,7 +4,6 @@ const queue2 = new Map();
 const queue3 = new Map();
 const queue = new Map();
 const games = new Map()
-const { addexp } = require("../../modules/xp")
 
 module.exports = async (bot, message) => {
     try {
@@ -44,7 +43,6 @@ module.exports = async (bot, message) => {
         
             commandfile.run(bot, message, args, ops)
             
-            return addexp(message)
             
          }
          else{
