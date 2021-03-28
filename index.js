@@ -42,8 +42,8 @@ bot.on('message', async message => {
                 prefix = fetched
             }
         
-            } catch (e) {
-            console.log(e)
+            } catch {
+            prefix = PREFIX
     };
     try {
         if (message.mentions.has(bot.user.id) && !message.content.includes("@everyone") && !message.content.includes("@here")) {
