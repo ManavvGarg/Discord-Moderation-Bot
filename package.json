@@ -12,7 +12,7 @@
     "beautify": "^0.0.8",
     "cheerio": "^1.0.0-rc.3",
     "common-tags": "^1.8.0",
-    "discord.js": "^12.5.1",
+    "discord.js": "^12.5.2",
     "ffmpeg": "^0.0.4",
     "ffmpeg-static": "^4.2.8",
     "fs": "^0.0.1-security",
