@@ -14,7 +14,7 @@
     "common-tags": "^1.8.0",
     "discord.js": "^12.5.1",
     "ffmpeg": "^0.0.4",
-    "ffmpeg-static": "^4.2.8",
+    "ffmpeg-static": "^4.3.0",
     "fs": "^0.0.1-security",
     "got": "^11.8.2",
     "logger": "0.0.1",
