@@ -10,7 +10,7 @@
     "amethyste-api": "^1.1.5",
     "anime-scraper": "^3.1.1",
     "beautify": "^0.0.8",
-    "cheerio": "^1.0.0-rc.3",
+    "cheerio": "^1.0.0-rc.6",
     "common-tags": "^1.8.0",
     "discord.js": "^12.5.3",
     "ffmpeg": "^0.0.4",
